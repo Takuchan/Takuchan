@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Takuchan
 - 👀 I’m interested in Programming to Android,iPhone. 
-- 🌱 I’m currently learning CSS,Java,Swift.
-- 💞️ I’m looking to collaborate on my friends.
+- 🌱 learning CSS,Java,Swift.
+- 💞️ Talking with Friends
 
 - 👋 こんにちは！ @Takuchanです。
 - 👀 私は今、AndroidやiPhoneなどのアプリ開発に興味を持っています。
