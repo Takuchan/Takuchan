@@ -1,4 +1,5 @@
-![noname](https://user-images.githubusercontent.com/28498918/178150055-9a69481d-518f-477f-90ed-04de5f8ee51d.png)
+![noname](https://user-images.githubusercontent.com/28498918/178150128-1e6cc8db-a2d3-467a-bea1-0be51f738eb5.png)
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takuchan)](https://github.com/anuraghazra/github-readme-stats)
