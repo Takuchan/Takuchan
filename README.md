@@ -1,4 +1,5 @@
-![noname](https://user-images.githubusercontent.com/28498918/178149889-7c0ede86-39d9-4850-833d-9bb9537b939a.png)
+![noname](https://user-images.githubusercontent.com/28498918/178150055-9a69481d-518f-477f-90ed-04de5f8ee51d.png)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takuchan)](https://github.com/anuraghazra/github-readme-stats)
 # Are you proud of coding C#?
