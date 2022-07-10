@@ -18,9 +18,8 @@ Robocup@home
 
 みなさんこんにちは！Takuchanです。
 興味関心が新幹線がホームを通過するかのごとく移り変わる性格です。
-例えばAppleの新OSのベーター版の提供が始まったら早速使ってみたり、WindowsInsiderに登録したり、AppleのWWDCを毎回必ずみたりなどなど。。。
 
-しかしAndroidやiPhoneアプリの開発,画像解析はずっと興味を持っています。
+しかしAndroidやiPhoneアプリの開発,画像解析はずっと興味を持ち、開発を続けています。
 JavaScriptは現在勉強中で、ただのWebページは作れます。
 何か要望がありましたらtakuhanapp■gmail.com (■→@)へ！
 
