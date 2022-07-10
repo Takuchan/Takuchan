@@ -1,4 +1,5 @@
-![noname](https://user-images.githubusercontent.com/28498918/178149774-c9ec5ea9-b205-42b1-accc-bec0dc4896af.png)
+![noname](https://user-images.githubusercontent.com/28498918/178149889-7c0ede86-39d9-4850-833d-9bb9537b939a.png)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takuchan)](https://github.com/anuraghazra/github-readme-stats)
 # Are you proud of coding C#?
 No.I'm interested in coding android app and motion detection. However almost my repositories are keep in private.
