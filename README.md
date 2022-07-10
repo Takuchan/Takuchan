@@ -19,6 +19,11 @@ I am good at coding android app and web design.
 Robocup@home
 
 
+みなさんこんにちは！Takuchanです。
+コンピュータでできることは一通り試してみたい性格です。
+例えばAppleの新OSのベーター版の提供が始まったら早速使ってみたり、WindowsInsiderに登録したり、AppleのWWDCを毎回必ずみたりなどなど。。。
+
+
 
 <!-- ![](https://komarev.com/ghpvc/?username=Takuchan) -->
 
