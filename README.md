@@ -13,6 +13,13 @@ I am good at coding android app and web design.
 4. 危ない！よけて(Android&iPhone&Windows&Mac)　Not released
 5. VideoDetect (CUI)
 
+# Now Studying
+1. Python
+2. OpenCV
+3. Flask
+4. JavaScript
+5. Swift(Xcode)
+
 Robocup@home
 
 
