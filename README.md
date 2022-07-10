@@ -1,7 +1,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takuchan)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takuchan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 # Are you proud of coding C#?
 No.I'm interested in coding android app and motion detection. However almost my repositories are keep in private.
 
