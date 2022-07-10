@@ -15,3 +15,5 @@ Robocup@home
 
 
 ![](https://komarev.com/ghpvc/?username=Takuchan)
+
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Takuchan&theme=dracula
