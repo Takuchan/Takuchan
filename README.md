@@ -1,26 +1,27 @@
-- 👋 Hi, I’m @Takuchan
-- 👀 I’m interested in Programming to Android,iPhone. 
-- 🌱 learning CSS,Java,Swift.
-- 💞️ Talking with Friends
-
-- 👋 こんにちは！ @Takuchanです。
-- 👀 私は今、AndroidやiPhoneなどのアプリ開発に興味を持っています。
-- 🌱 最近結構マジメに勉強しているのがSwift,Java、そしてCSSです。
-- 💞️　友達と話すのが好きです！
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takuchan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takuchan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+# Are you proud of coding C#?
+No.I'm interested in coding android app and motion detection. However almost my repositories are keep in private.
+
+# Will you let us work with you?
+I am good at coding android app and web design.
+
+
+# My project is...
+### ShiftTape(Android&iPhone&Web) (Android)released (iPhone)　Not released
+### DiaLife(Android) (Android)relased
+### UnityChan!(Android&iPhone&Windows&Mac)　Not released
+### 危ない！よけて(Android&iPhone&Windows&Mac)　Not released
+###　 VideoDetect (CUI)
 
 Robocup@home
 
 
 
-![](https://komarev.com/ghpvc/?username=Takuchan)
+<!-- ![](https://komarev.com/ghpvc/?username=Takuchan) -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Takuchan&theme=monokai)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Takuchan&theme=monokai) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Takuchan&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Takuhan&repo=convoychat" />
-</a>
+
