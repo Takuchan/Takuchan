@@ -19,4 +19,4 @@ Robocup@home
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Takuchan&theme=monokai)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takuchan&show_icons=truee&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takuchan&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takuchan&langs_count=8)](https://github.com/Takuchan/github-readme-stats)
