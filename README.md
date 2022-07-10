@@ -10,11 +10,11 @@ I am good at coding android app and web design.
 
 
 # My project is...
-### ShiftTape(Android&iPhone&Web) (Android)released (iPhone)　Not released
-### DiaLife(Android) (Android)relased
-### UnityChan!(Android&iPhone&Windows&Mac)　Not released
-### 危ない！よけて(Android&iPhone&Windows&Mac)　Not released
-###　 VideoDetect (CUI)
+1. ShiftTape(Android&iPhone&Web) (Android)released (iPhone)　Not released
+2. DiaLife(Android) (Android)relased
+3. UnityChan!(Android&iPhone&Windows&Mac)　Not released
+4. 危ない！よけて(Android&iPhone&Windows&Mac)　Not released
+5. VideoDetect (CUI)
 
 Robocup@home
 
