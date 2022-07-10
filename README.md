@@ -17,3 +17,5 @@ Robocup@home
 ![](https://komarev.com/ghpvc/?username=Takuchan)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Takuchan&theme=vue)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takuchan&show_icons=true)
