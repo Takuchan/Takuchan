@@ -9,8 +9,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takuchan)](https://github.com/anuraghazra/github-readme-stats)
 
 # Now Studying
-1. Python
-2. OpenCV
-3. Flask
-4. JavaScript
-5. Swift(Xcode)
+1. Python 2. OpenCV 3. Flask 4. JavaScript 5. Swift(Xcode)
