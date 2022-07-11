@@ -1,9 +1,8 @@
 # My project is...
 1. ShiftTape(Android&iPhone&Web) (Android)released (iPhone)　Not released
 2. DiaLife(Android) (Android)relased
-3. UnityChan!(Android&iPhone&Windows&Mac)　Not released
-4. 危ない！よけて(Android&iPhone&Windows&Mac)　Not released
-5. VideoDetect (CUI)
+３. 危ない！よけて(Android&iPhone&Windows&Mac)　Not released
+4. VideoDetect (CUI)
 
 
 ![noname](https://user-images.githubusercontent.com/28498918/178150128-1e6cc8db-a2d3-467a-bea1-0be51f738eb5.png)
