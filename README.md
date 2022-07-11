@@ -1,7 +1,7 @@
 # My project is...
 1. ShiftTape(Android&iPhone&Web) (Android)released (iPhone)　Not released
 2. DiaLife(Android) (Android)relased
-３. 危ない！よけて(Android&iPhone&Windows&Mac)　Not released
+3. 危ない！よけて(Android&iPhone&Windows&Mac)　Not released
 4. VideoDetect (CUI)
 
 
