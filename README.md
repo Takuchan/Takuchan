@@ -13,3 +13,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=takuchan&theme=blue-green&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+#### 得意分野
+- Android開発（Jetpackcompse)
+- iPhoneアプリ開発（SwiftUI)
+- ROS 2を使ったロボット開発
+- HTML　CSSデザイン
+#### チョットデキル
+- ウェブアプリ開発
+- Tensorflowを使ったAI開発
