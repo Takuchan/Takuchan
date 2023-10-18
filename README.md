@@ -14,6 +14,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=takuchan&theme=blue-green&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+[![github-chart](https://github-chart.vercel.app/api?user=takuchan)](https://github.com/takuchan/github-chart)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takuchan&theme=2077)
+
+
+
 #### 得意分野
 - Android開発（Jetpackcompse)
 - iPhoneアプリ開発（SwiftUI)
