@@ -16,9 +16,6 @@
 
 ## 興味関心がうろうろしています👀その結果です
 [![My Skills](https://skillicons.dev/icons?i=ae,androidstudio,arduino,c,cs,cpp,css,dart,docker,eclipse,fastapi,figma,firebase,flask,flutter,gcp,git,github,gradle,html,ai,java,js,kotlin,linux,mongodb,mysql,nodejs,opencv,ps,pr,py,pytorch,stackoverflow,unity,ubuntu,vim,vscode)](https://skillicons.dev)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takuchan)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=takuchan)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 
