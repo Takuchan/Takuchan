@@ -8,8 +8,8 @@
 [![Contributions](https://badgen.org/img/qiita/matttchan/contributions?style=plastic)](https://qiita.com/matttchan)
 ホームページ→[https://takuchanwork.com](https://takuchanwork.com/)
 
-MilkyPublisherプレゼンテーション（YouTube）
-🏆RoboCup Japan Open 2024 @Home Education OpenChallenge優勝
+- MilkyPublisherプレゼンテーション 🏆RoboCup Japan Open 2024 @Home Education OpenChallenge優勝
+
 https://youtu.be/B-DhQIwsBig?si=vT089e4s5ACXpbNa
 
 以下はリリース中です！
