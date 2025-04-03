@@ -5,3 +5,6 @@
 幼稚園の頃からPC触ってます！WindowsXPが私の最初に触れたOSです。
 
 
+I’m conducting research on assistive robots for daily life.
+My hobby is Android app development, and I also enjoy working with embedded Android systems.
+I've been using computers since I was in kindergarten — Windows XP was the first operating system I ever used!
