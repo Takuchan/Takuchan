@@ -1,16 +1,13 @@
 # Hello, Welcome! I'm **Takuchan** 😄
-
-🔍 I’m researching **autonomous mobile robots** that help many people — especially in **factories** 🏭🤖
-
 ---
 
 🎯 Hobbies
 - 📱 **Android App Dev** (Native, since 2017)
-- 🤖 **AI Robotics Dev** (ROS2, Python, since 2022)
 
 💻 What I Can Do
 - 🍎 **iPhone App Dev** (Native, SwiftUI)
 - 🌐 **Web App Dev** (Front-end & Back-end)
+- 🤖 **AI Robotics Dev** (ROS2, Python)
 
 ❤️ Things I Love
 
